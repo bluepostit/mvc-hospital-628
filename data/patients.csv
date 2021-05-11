@@ -1,0 +1,4 @@
+id,name,age,healed,room_id
+1,sally,22,false,1
+2,bob,25,true,1
+3,sue,23,false,2
